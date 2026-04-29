@@ -3,7 +3,7 @@
 In this chapter, I learned how to create internal and external links.
 
 ### 🚀 Live Preview (RUN)
-* [🔗 Open My Navigation Page (Chapter 2)](https://tariqtigany-code.github.io/Exercise./Chapter-2-Exercises/One-page website.html)
+* [🔗 Open My Navigation Page (Chapter 2)](https://tariqtigany-code.github.io/Exercise./Chapter-2-Exercises/One-page%20website.html)
 
 ### 🌐 Featured Links inside the project:
 1. **Internal Link:** To my Chapter 1 Recipe Page.
