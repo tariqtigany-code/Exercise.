@@ -1,1 +1,42 @@
+/* External CSS for Bonus Task */
+body {
+    background-color: #f0f2f5;
+    font-family: 'Courier New', Courier, monospace;
+    line-height: 1.6;
+}
 
+.main-content {
+    max-width: 900px;
+    margin: 40px auto;
+    padding: 20px;
+    background: #ffffff;
+    border: 2px solid #3498db;
+    border-radius: 8px;
+}
+
+h1 {
+    color: #0e4180;
+    text-align: center;
+}
+
+h2 {
+    color: #0e4180;
+    border-bottom: 1px dashed #ccc;
+}
+
+code {
+    background: #eee;
+    padding: 2px 4px;
+    border-radius: 4px;
+    color: #0d3337;
+}
+
+pre {
+    background: #0e4180;
+    color: #f8f8f2;
+    padding: 15px;
+    overflow-x: auto;
+}
+ul {
+    list-style-type: '🚀 '; 
+}
