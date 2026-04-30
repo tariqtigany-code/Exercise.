@@ -1,0 +1,81 @@
+/* الإعدادات العامة */
+body {
+    font-family: "Arial", sans-serif;
+    margin: 0;
+    padding: 0;
+    color: #000000;
+}
+
+/* الهيدر والقائمة */
+header {
+    background-color: #17072b; /* اللون المطلوب */
+    color: #FFFFFF;
+    text-align: center;
+    padding: 20px;
+}
+
+header h1 {
+    font-family: "Tahoma", sans-serif;
+    font-weight: 700;
+    text-decoration: underline;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 1.2em;
+}
+
+/* تنسيق المحتوى الرئيسي والجانبي (Flexbox) */
+main {
+    display: flex;
+    max-width: 1000px;
+    margin: 20px auto;
+    gap: 20px;
+}
+
+.welcome-section {
+    flex: 2; /* تأخذ مساحة أكبر */
+}
+
+.line-up {
+    flex: 1; /* المساحة الجانبية */
+    background-color: #172d67; /* لون الـ Sidebar */
+    color: white;
+    padding: 20px;
+}
+
+/* تنسيق الصور */
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+.side-images {
+    display: flex;
+    gap: 10px;
+    margin-top: 20px;
+}
+
+.side-images img {
+    width: 45%;
+}
+
+/* التذييل */
+footer {
+    background-color: #8c15e9; /* اللون المطلوب */
+    color: white;
+    text-align: center;
+    padding: 10px;
+    margin-top: 20px;
+}
