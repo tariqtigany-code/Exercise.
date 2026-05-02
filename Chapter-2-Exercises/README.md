@@ -1,11 +1,10 @@
-# Chapter 2: Links & Navigation 🔗
+# Chapter 2 Exercises
 
-In this chapter, I learned how to create internal and external links.
+This folder contains the mandatory exercise for Chapter 2.
 
-### 🚀 Live Preview (RUN)
-* [🔗 Open My Navigation Page (Chapter 2)](https://tariqtigany-code.github.io/Exercise./Chapter-2-Exercises/One-page%20website.html)
+## Project: One-page Website
+This is a simple one-page website about the movie **Sinners (2025)**.
 
-### 🌐 Featured Links inside the project:
-1. **Internal Link:** To my Chapter 1 Recipe Page.
-2. **External Link:** To Google Search.
-3. **External Link:** To Educational Websites.
+### Links:
+*   [View My One-page Website](./One-page%20website.html)
+*   [View CSS Stylesheet](./style-2.css)
