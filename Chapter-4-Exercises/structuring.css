@@ -1,4 +1,4 @@
-/* الإعدادات العامة */
+
 body {
     font-family: "Arial", sans-serif;
     margin: 0;
@@ -6,9 +6,9 @@ body {
     color: #000000;
 }
 
-/* الهيدر والقائمة */
+
 header {
-    background-color: #17072b; /* اللون المطلوب */
+    background-color: #17072b; 
     color: #FFFFFF;
     text-align: center;
     padding: 20px;
@@ -36,7 +36,7 @@ nav ul li a {
     font-size: 1.2em;
 }
 
-/* تنسيق المحتوى الرئيسي والجانبي (Flexbox) */
+
 main {
     display: flex;
     max-width: 1000px;
@@ -45,17 +45,17 @@ main {
 }
 
 .welcome-section {
-    flex: 2; /* تأخذ مساحة أكبر */
+    flex: 2; 
 }
 
 .line-up {
-    flex: 1; /* المساحة الجانبية */
-    background-color: #172d67; /* لون الـ Sidebar */
+    flex: 1; 
+    background-color: #172d67; 
     color: white;
     padding: 20px;
 }
 
-/* تنسيق الصور */
+
 img {
     max-width: 100%;
     height: auto;
@@ -71,9 +71,9 @@ img {
     width: 45%;
 }
 
-/* التذييل */
+
 footer {
-    background-color: #8c15e9; /* اللون المطلوب */
+    background-color: #8c15e9; 
     color: white;
     text-align: center;
     padding: 10px;
